@@ -7,4 +7,3 @@
 
 Welcome to my digital garden.
 
-https://notes.ole.dev/set-up-your-digital-garden/
