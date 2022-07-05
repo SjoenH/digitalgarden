@@ -26,3 +26,14 @@ Roland Octadrum
 Focusrite Saffire pro 40
 Catalina Club *Birch?* drumset
 
+## Equipment owned by my employee
+| Category | Detailed                                                                                              | Serial Number | Date      | Where              | Price     |  
+|----------|-------------------------------------------------------------------------------------------------------|---------------|-----------|--------------------|-----------|  
+| Computer | MacBook Pro 16" Space Gray/Apple M1 Max 10-Core CPU & 32-Core GPU/32GB RAM/1TB SSD/Norwegian Keyboard |               | jun. 2022 |                    | 32 954    |  
+| Keyboard | Mx Mechanical Mini Tactile Quiet                                                                      | 2202SCU01W98  | jun. 2022 | Kjell & Company    | 1 199 kr  |  
+| Mouse    | Mx Master 3s                                                                                          | 2214LZ50GDL8  | jun. 2022 | Kjell & Company    | 1 043 kr  |  
+| Screen   | BenQ PD3220U 31,5" 4K                                                                                 |               | jul. 2022 | Scandinavian Photo | 10 206 kr |
+
+
+
+	
