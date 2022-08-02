@@ -9,3 +9,12 @@ Hello, this is my jottings about C#. It's quite incomplete, and should not be us
 **In the future,** I hope to share something of use to help others see sharp (Sorry for the pun. [[Life/I'm a Dad now|I'm a Dad now]]), but *for now*, this might **blur your vision** instead. 
 
 **You have been warned.**
+
+## Topics
+[[CSharp/Association between Classes|Association between Classes]]
+[[CSharp/Compositon|Compositon]]
+[[CSharp/Dependency Injection|Dependency Injection]]
+[[CSharp/Inheritance|Inheritance]]
+[[CSharp/Interface|Interface]]
+[[CSharp/Polymorphism|Polymorphism]]
+[[CSharp/Repository pattern|Repository pattern]]
