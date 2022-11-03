@@ -9,3 +9,4 @@ Welcome to my digital garden. My *eternal struggle* to find the right *balance* 
 
 Links:
 - [[Henry/CSharp/C-Sharp\|C-Sharp]]
+- [[Henry/Life/Display scaling and macos\|Display scaling and macos]]
