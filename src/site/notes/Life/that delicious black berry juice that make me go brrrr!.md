@@ -21,7 +21,7 @@ Feel alive and well.
 
 It's Good as long as it is good coffee. I prefer light-roasted beans, and I often use the aeropress or plain old filter brewing method to make my coffee. 
 
-I buy my beans from Stavangerkaffebrenneri because they are affordable and have a great selection of light roasts. 
+I buy my beans from [Stavanger Kaffebrenneri](https://www.stavangerkaffebrenneri.no/) because they are affordable and have a great selection of light roasts. 
 
 >Tip: use the code "henterselv" to pay less and go pick it up yourself.
 
