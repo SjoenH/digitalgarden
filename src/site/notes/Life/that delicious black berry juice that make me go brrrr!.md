@@ -18,4 +18,11 @@ I actually like the taste (most of the time).
 Feel alive and well.
 
 ## The Taste
-It's Good as long as it is good coffee.
+
+It's Good as long as it is good coffee. I prefer light-roasted beans, and I often use the aeropress or plain old filter brewing method to make my coffee. 
+
+I buy my beans from Stavangerkaffebrenneri because they are affordable and have a great selection of light roasts. 
+
+>Tip: use the code "henterselv" to pay less and go pick it up yourself.
+
+I also appreciate the taste of coffee when it's freshly brewed - after 30 minutes, it starts to lose its pleasantness.
