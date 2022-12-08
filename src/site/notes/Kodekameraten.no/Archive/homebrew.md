@@ -2,6 +2,15 @@
 {"dg-publish":true,"permalink":"/kodekameraten-no/archive/homebrew/"}
 ---
 
+# ---
+# title: Homebrew
+# author: Henry S. Sjøen
+# date: 2019-03-21 15:28:31 +0000
+# description: Homebrew is an amazing tool for Mac OS that is invaluable for any developer.
+# tags: howto,getting started,english
+# draft: true
+# dg-publish: true
+# ---
 Homebrew is an amazing tool for Mac OS that is invaluable for any developer.
 
 > It installs the stuff you need that Apple didn’t.
