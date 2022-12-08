@@ -13,3 +13,4 @@ Welcome to my digital garden. My *eternal struggle* to find the right *balance* 
 -   Food and drink: [[Life/that delicious black berry juice that make me go brrrr!\|that delicious black berry juice that make me go brrrr!]]
 -   Personal development: [[Personal development/Unschedule\|Unschedule]], [[Personal development/Being new\|Being new]]
 
+
