@@ -3,7 +3,7 @@
 ---
 
 Q: Tell me a little bit about yourself. 
-A: Hi there! My name is Henry and I'm a IT consultant. I work for Miles, where I focus on frontend web projects. In my personal life, I have a lovely wife and a newborn child. I also enjoy playing drums and being creative in my free time.
+A: Hi there! My name is Henry, and I'm an IT consultant. I work for Miles, where I focus on frontend web projects. In my personal life, I have a lovely wife and a newborn child. I also enjoy playing drums and being creative in my free time.
 
 Q: What are your interests and hobbies? 
 A: In addition to spending time with my family, I really enjoy playing drums and being creative. I find that music and art are great outlets for me to express myself and relax.
