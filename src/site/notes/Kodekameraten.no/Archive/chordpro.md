@@ -3,6 +3,7 @@
 ---
 
 
+
 Chordpro brukes når man vil ha nøyaktig plassering av akkorder i tekst-dokumentet, og ha mulighet til å transponere når som helst.
 
 ![Chordpro eksempel](/img/love-me-tender-small.png)
