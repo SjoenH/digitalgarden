@@ -3,6 +3,7 @@
 ---
 
 
+
 This is a part of the series "Henry is getting ready for Olavstoppen". You can find the other posts by following the tag "[Getting Ready 4 OT](/tags/getting-ready-4-ot/)".
 
 To learn React I have been following [this React course by Wes Bos](https://reactforbeginners.com/). And the following is mostly my notes and ramblings trying to digest it.
