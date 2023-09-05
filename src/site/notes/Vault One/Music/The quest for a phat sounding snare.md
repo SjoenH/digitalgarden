@@ -33,3 +33,19 @@ Some use the Evans e-ring.
 ## Taking care of your snare
 https://www.gear4music.no/en/Drums-and-Percussion/Hardcase-14-Floor-Tom-Case-Black/IY1?_gl=1*12rgyy9*_ga*MTg0Nzc4MzkwLjE2NjI0NTM0MTI.*_up*MQ..
 
+
+
+
+Larnell Lewis have this hybrid snare/tom. Which might be something I'm interested in doing...
+[(1) Larnell Lewis’ Secret Weapon (Hybrid Snare/Tom) - YouTube](https://www.youtube.com/watch?v=GUkQbhu5nfQ)
+
+TOP: Evans hydraulic head
+BOTTOM: Evans Hazy 300
+
+He mentions that it's important to have a thin head on the bottom for snare sensitivity....
+
+Tuning:
+He starts it really low. And tune slowly up untill he get's the wrinkles out. Then he finds a couple of lugs that have the pitch he is looking for. And adjusts the other ones to match.
+
+For the bottom head, he makes sure it's not too loose or too tight... What does that mean?
+
