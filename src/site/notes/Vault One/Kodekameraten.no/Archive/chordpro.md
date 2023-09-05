@@ -6,7 +6,7 @@
 
 Chordpro brukes når man vil ha nøyaktig plassering av akkorder i tekst-dokumentet, og ha mulighet til å transponere når som helst.
 
-![Chordpro eksempel](data:image/md;base64,)
+![Chordpro eksempel](/img/user/img/love-me-tender-small.png.md)
 
 Chordro er bare vanlige *.txt*-filer, men man kan generere (blant annet) pdf ut av det.
 
