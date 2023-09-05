@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-one/digital-garden-home/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/vault-one/digital-garden-home/","tags":["gardenEntry"]}
 ---
 
 # Hello World! - how original
