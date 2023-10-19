@@ -77,5 +77,5 @@ And would render as:
 <p>Goes in the slot named "second".</p>
 ```
 
-
+[See example code-playground here](https://play.vuejs.org/#eNqlUstO4zAU/ZU73mRGgmTBrlOQ5oHmIfEQILHxJkpuWoNjW/ZNKar671w7TRoQICF29j0PH9tnI344l686FDMxD5VXjiAgde5EGtU66wk24LGBLTTetpAxNRuhs8dfllcGDe3gvJjMom/2XZrJSBppKmsCQRsWcBytv2Z/UWsLt9br+kv2TZp50SfhDLwhbJ0uCXkHMG8fD6vBLE145k7gNzZlpykAWaAlQqM8nxG0JVAGpqJ5Ee+WdIMzrA4jcxaQo9U7NPkOS4A/FkO0iubJ1pQt1iBFL5IiH2X7A4rn2YsX4Se4OBAU2KhRi/wuWMPfsYkaKaJAafQXjhQ/nBQzSEjESn63h/9pRr7Dg2FeLbG6f2V+F9ZxJsWlx4B+hVKMGJV+gdTDp9fnuOb1CLa27jSz3wGvMFjdxYw97Wdnao494aW0/1JzlFnchNM1oQnDpWLQyNwmvhTcndiat66+j3uUHyWdNFt+xRf1+1itP9nN2Ivd159bWvIlwXm7UjUXhauTasPJ+i6M5CRLdTret+kNm2fSaX22T5uXRPw=) 
 
