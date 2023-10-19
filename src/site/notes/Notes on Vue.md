@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/notes-on-vue/"}
 ---
 
+# Notes on Vue
+#vue #learning #notes
+
 Kebab case in html context, camelCase or PascalCase in JS.
 
 ## Slots!
