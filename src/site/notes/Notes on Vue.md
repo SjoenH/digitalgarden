@@ -80,10 +80,45 @@ And would render as:
 [See example code-playground here](https://play.vuejs.org/#eNp9UstuwjAQ/JWVL1wgOXCjFKkPVLVSadX26EuULGCa2Ja9oSDEv3ftEAio9LbemVmPPbsTd9Ym6xrFSIx97pQl8Ei1nUitKmscwev2wXClURPMnamgl6SdXhD3bqQep42chXwgrGyZEfIJYFxtB3nLjx3u2Qk84jyrS/JABmiJMFfO8/WlIVAauqJxGgxFXTsZ1oPAHHnMjS4OaJzblgBPBn0YFYbHsTqrsAApGpEUyVF2uiA9955emO/goi/I86C5WiQrbzT/4S5opAgCVaJ7s6SM9lKMICIBy8rS/LzEHrka+20/X2L+/Ud/5TehJ8W7Q49ujVIcMcrcAqmBp58z3HB9BCtT1CWz/wE/0JuyDh4b2n2tC7bd4UW3z3ETlF58+emGUPv2UcFoYO4jXwrehbAY155+sjtMhlEn9Z5/8WKdwi6ehxDCO+QzM7RkJ2CdWauC0+R8Y7YsbwI7kqMsZn57ivzKmDNpN+P9L6+PCjU=) 
 
 
-## Back-and-fourth
+### Back-and-fourth
 
 ```vue
 <template v-slot="providedItem">
  {{providedItem}}
 </template>
 ```
+
+## Watch
+For running side-effects. We can watch some state and do something whenever it changes.
+
+```tsx
+const question = ref('')
+watch(question, async (newQeustion, oldQuestion)=>{
+	// Note that we have access to the new value as well as the old one. That's pretty sick!
+})
+```
+
+So that means we can have a quite intuitive way to work with a store.
+Like... 
+```tsx
+watch(()=>productStore.get.starredProducts(),
+	(starredProducts) => {
+		 // do something
+	}
+)
+```
+
+
+This will run every time the `productStore.get.starredProducts()` changes. 
+
+**NB: But not on mount!** Unless we set it to run immediately like this:
+```tsx
+watch(()=>productStore.get.starredProducts(),
+	(starredProducts) => {
+		 // do something
+	},
+	{immediate: true}
+)
+```
+
+This gives us some more fine-control over the lifecycle... Which is nice.
