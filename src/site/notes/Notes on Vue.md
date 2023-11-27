@@ -11,7 +11,7 @@ Kebab case in html context, camelCase or PascalCase in JS.
 
 More powerful than react-children. But takes a bit longer to wrap my brain around.
 
-```vue
+```tsx
 <slot name="optionalName">Fallback/default goes in here</slot>
 ```
 
@@ -19,7 +19,7 @@ As a rule of thumb; when you need to pass something that renders, use a slot. El
 
 ## template
 
-```vue
+```tsx
 <template>
 	Used for grouping things without rendering a div or span.
 </template>
@@ -45,7 +45,7 @@ For example:
 
 We have a component that is using the slot of some other component:
 
-```vue
+```tsx
 <my-component>
 	<p> Defaults to the first slot in my-component</p>
 	<template v-slot:second>
@@ -59,7 +59,7 @@ We have a component that is using the slot of some other component:
 Shorthand for v-slot in template is `#`.
 
 And for reference, `MyComponent.vue`  would look something like this:
-```vue
+```tsx
 <template>
 	<slot>
 		Nothing provided in slot one
@@ -82,16 +82,16 @@ And would render as:
 
 ### Back-and-fourth
 
-```vue
+```tsx
 <template v-slot="providedItem">
  {{providedItem}}
 </template>
 ```
 
-## Watch
+# Watch
 For running side-effects. We can watch some state and do something whenever it changes.
 
-```tsx
+```ts
 const question = ref('')
 watch(question, async (newQeustion, oldQuestion)=>{
 	// Note that we have access to the new value as well as the old one. That's pretty sick!
@@ -100,7 +100,7 @@ watch(question, async (newQeustion, oldQuestion)=>{
 
 So that means we can have a quite intuitive way to work with a store.
 Like... 
-```tsx
+```ts
 watch(()=>productStore.get.starredProducts(),
 	(starredProducts) => {
 		 // do something
@@ -112,7 +112,7 @@ watch(()=>productStore.get.starredProducts(),
 This will run every time the `productStore.get.starredProducts()` changes. 
 
 **NB: But not on mount!** Unless we set it to run immediately like this:
-```tsx
+```ts
 watch(()=>productStore.get.starredProducts(),
 	(starredProducts) => {
 		 // do something
