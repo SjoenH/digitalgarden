@@ -57,8 +57,6 @@ We have a component that is using the slot of some other component:
 </my-component>
 ```
 
-Shorthand for v-slot in template is `#`.
-
 And for reference, `MyComponent.vue`  would look something like this:
 ```tsx
 <template>
@@ -81,16 +79,22 @@ And would render as:
 [See example code-playground here](https://play.vuejs.org/#eNp9UstuwjAQ/JWVL1wgOXCjFKkPVLVSadX26EuULGCa2Ja9oSDEv3ftEAio9LbemVmPPbsTd9Ym6xrFSIx97pQl8Ei1nUitKmscwev2wXClURPMnamgl6SdXhD3bqQep42chXwgrGyZEfIJYFxtB3nLjx3u2Qk84jyrS/JABmiJMFfO8/WlIVAauqJxGgxFXTsZ1oPAHHnMjS4OaJzblgBPBn0YFYbHsTqrsAApGpEUyVF2uiA9955emO/goi/I86C5WiQrbzT/4S5opAgCVaJ7s6SM9lKMICIBy8rS/LzEHrka+20/X2L+/Ud/5TehJ8W7Q49ujVIcMcrcAqmBp58z3HB9BCtT1CWz/wE/0JuyDh4b2n2tC7bd4UW3z3ETlF58+emGUPv2UcFoYO4jXwrehbAY155+sjtMhlEn9Z5/8WKdwi6ehxDCO+QzM7RkJ2CdWauC0+R8Y7YsbwI7kqMsZn57ivzKmDNpN+P9L6+PCjU=) 
 
 
+> Shorthand for v-slot in template is `#`. So `v-slot:second` could be rewritten as `#second`
+
+
 ### Back-and-fourth
 
-```tsx
+```vue
 <template v-slot="providedItem">
  {{providedItem}}
 </template>
 ```
 
 # Watch
-For running side-effects. We can watch some state and do something whenever it changes.
+
+> For running side-effects. 
+
+We can watch some state and do something whenever it changes.
 
 ```ts
 const question = ref('')
