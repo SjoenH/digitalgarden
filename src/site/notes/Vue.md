@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/vue/"}
 ---
 
-
-
-```
 # Watch
 For running side-effects. We can watch some state and do something whenever it changes.
 
