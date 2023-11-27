@@ -6,13 +6,14 @@
 #vue #learning #notes
 
 Kebab case in html context, camelCase or PascalCase in JS.
+Consistency is key.
 
 ## Slots!
 
 More powerful than react-children. But takes a bit longer to wrap my brain around.
 
 ```tsx
-<slot name="optionalName">Fallback/default goes in here</slot>
+<slot name="optionalName">Fallback / default goes in here </slot>
 ```
 
 As a rule of thumb; when you need to pass something that renders, use a slot. Else it's a prop!
